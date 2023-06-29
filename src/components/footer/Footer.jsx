@@ -1,10 +1,10 @@
 import React from "react"; 
 import './footer.css'
 
-const Footer = () => {
+const Pie = () => {
     return (
-        <Footer>Pie de pagina</Footer>
+        <footer>Pie de pagina</footer>
     )
 }
 
-export default Footer
+export default Pie
