@@ -1,10 +1,29 @@
-import React from "react"; 
+import React, {useRef} from "react"; 
 import './contact.css'
 import {AiOutlineMail} from 'react-icons/ai'
 import {PiMessengerLogo} from 'react-icons/pi'
 import {BsWhatsapp} from 'react-icons/bs'
+import emailjs from 'emailjs-com'
 
 const Contact = () => {
+
+    const form = useRef();
+
+    const sendEmail = (e) => {
+        e.preventDefault();
+
+        emailjs.sendForm('portafolio', 'template_q5umvuj', form.current, 'gEtbBkeUcP_uSN7uC')
+        .then((result) => {
+            alert("Mensaje enviado correctamente");
+            // console.log(result.text);
+        }, (error) => {
+            alert("Error al enviar el mensaje, por favor intenta otro medio de contacto.");
+            // console.log(error.text);
+        });
+
+        e.target.reset()
+    };
+
     return (
         <section id="contact">
             <h5>Hablemos</h5>
@@ -32,7 +51,7 @@ const Contact = () => {
                     </article>
                 </div>
 
-                <form action="">
+                <form ref={form} onSubmit={sendEmail}>
                     <input type="text" name="name" placeholder="Escribe tu nombre completo" required />
                     <input type="email" name="email" placeholder="Direccion de Email" required />
                     <textarea name="message" id="message" rows="7" placeholder="Mensaje" required></textarea>
