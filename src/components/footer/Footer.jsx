@@ -12,7 +12,7 @@ const Pie = () => {
             <ul className="permalinks">
                 <li><a href="#">Inicio</a></li>
                 <li><a href="#about">Sobre mi</a></li>
-                <li><a href="#experience">Experiencia</a></li>
+                <li><a href="#experience">Skills</a></li>
                 <li><a href="#services">Servicios</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
                 <li><a href="#testimonials">Testimonios</a></li>
