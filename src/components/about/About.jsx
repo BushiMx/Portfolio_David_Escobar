@@ -33,17 +33,18 @@ const About = () => {
               <small>Dev</small>
             </article>
 
-            {/* <article className='about__card'>
-              <PiGraduationCapFill className='about__icon'/>
-              <h5>Graduado</h5>
-              <small>ORACLE Next Education</small>
-            </article> */}
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus eaque dolor 
-            consequatur expedita sapiente nostrum, necessitatibus deleniti quidem aut nemo 
-            culpa doloremque eos, obcaecati, corporis soluta labore ipsum tenetur tempore?
+          Estudié Ing. en Computación pero el trabajo
+          me llevo hacia la Dirección Organizacional y capacitación,
+          lo que permitió desarrollar mis habilidades blandas como la comunicación y reforzar mi forma 
+          de trabajar en equipo.
+          </p>
+          <p>
+          Regresé a la TI gracias a Alura Latam y ORACLE en dónde me especialicé 
+          como FrontEnd. Lo cual me ha permitido ayudar a profesionistas independientes y negocios a dar a conocer
+          sus negocios/servicios en la web y crear una solución personalizada para sus necesidades.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Hablemos</a>
