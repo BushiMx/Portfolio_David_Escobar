@@ -16,9 +16,9 @@ import 'swiper/css/pagination';
 const clients_list = [
     {
         id:1,
-        image: avatar_mel,
-        name: 'Mel Torres',
-        review: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae, doloremque doloribus incidunt quos atque dolorum neque veritatis est! Fuga ut animi aliquam velit iste nulla quod assumenda explicabo enim distinctio.'
+        image: avatar_fred,
+        name: 'Fred Mastison',
+        review: 'Demian is a professional that is a pleasure to work with. A sincere detail oriented person who manages to balance a driving work ethic with a pleasant and enjoyable attitude. He is a pleasure to work with and I would recommend him to any business or other professional.'
     },
     {
         id:2,
@@ -28,9 +28,9 @@ const clients_list = [
     },
     {
         id:3,
-        image: avatar_fred,
-        name: 'Fred Mastison',
-        review: 'Demian is a professional that is a pleasure to work with. A sincere detail oriented person who manages to balance a driving work ethic with a pleasant and enjoyable attitude. He is a pleasure to work with and I would recommend him to any business or other professional.'
+        image: avatar_mel,
+        name: 'Mel Torres',
+        review: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae, doloremque doloribus incidunt quos atque dolorum neque veritatis est! Fuga ut animi aliquam velit iste nulla quod assumenda explicabo enim distinctio.'
     }
 ]
 

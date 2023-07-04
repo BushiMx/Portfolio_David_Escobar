@@ -1,49 +1,54 @@
 import React from "react"; 
 import './portfolio.css'
 import img__proyecto01 from "../../assets/proyecto01.webp"
+import img__encriptador from "../../assets/proyecto_encriptador.png"
+import img__coinbase from "../../assets/proyecto_coinbase.png"
+import img__meltorres from "../../assets/proyecto_mel_torres.png"
+import imag__ecommerce from "../../assets/proyecto_ecommerce.png"
+import imag__optica from "../../assets/proyecto_optica.png"
 
 const info = [
     {
         id:1,
-        image: img__proyecto01,
-        title: 'Proyecto 1',
-        github: 'https://github.com/BushiMx',
-        demo: 'https://github.com/BushiMx'        
+        image: img__encriptador,
+        title: 'Encriptador de texto',
+        github: 'https://github.com/BushiMx/oracle-encriptador',
+        demo: 'https://bushimx.github.io/oracle-encriptador/'        
     },
     {
         id:2,
-        image: img__proyecto01,
-        title: 'Proyecto 2',
-        github: 'https://github.com/BushiMx',
-        demo: 'https://github.com/BushiMx'        
+        image: img__coinbase,
+        title: 'Clone Website Coinbase',
+        github: 'https://github.com/BushiMx/WebsiteClone-Coinbase',
+        demo: 'https://bushimx.github.io/WebsiteClone-Coinbase/'        
     },
     {
         id:3,
-        image: img__proyecto01,
-        title: 'Proyecto 3',
-        github: 'https://github.com/BushiMx',
-        demo: 'https://github.com/BushiMx'        
+        image: img__meltorres,
+        title: 'Mel Torres - Wedding Planner - Landing Page',
+        github: 'https://github.com/BushiMx/MelTorres',
+        demo: 'https://bushimx.github.io/MelTorres/'        
     },
     {
         id:4,
-        image: img__proyecto01,
-        title: 'Proyecto 4',
-        github: 'https://github.com/BushiMx',
-        demo: 'https://github.com/BushiMx'        
+        image: imag__ecommerce,
+        title: 'E-commerce',
+        github: 'https://github.com/BushiMx/e-commerce',
+        demo: 'https://bushimx.github.io/e-commerce/'        
     },
     {
         id:5,
-        image: img__proyecto01,
-        title: 'Proyecto 5',
-        github: 'https://github.com/BushiMx',
-        demo: 'https://github.com/BushiMx'        
+        image: imag__optica,
+        title: 'Optica del Centro - Landing Page',
+        github: 'https://github.com/BushiMx/OpticaDelCentro',
+        demo: 'https://bushimx.github.io/OpticaDelCentro/'        
     },
     {
         id:6,
         image: img__proyecto01,
         title: 'Proyecto 6',
-        github: 'https://github.com/BushiMx',
-        demo: 'https://github.com/BushiMx'        
+        github: 'https://github.com/BushiMx/OpticaDelCentro',
+        demo: 'https://bushimx.github.io/OpticaDelCentro/'        
     },
 
 ]
