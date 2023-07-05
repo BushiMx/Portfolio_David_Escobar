@@ -6,6 +6,7 @@ import img__coinbase from "../../assets/proyecto_coinbase.png"
 import img__meltorres from "../../assets/proyecto_mel_torres.png"
 import imag__ecommerce from "../../assets/proyecto_ecommerce.png"
 import imag__optica from "../../assets/proyecto_optica.png"
+import imag__aluraflix from "../../assets/proyecto_aluraflix.png"
 
 const info = [
     {
@@ -45,10 +46,10 @@ const info = [
     },
     {
         id:6,
-        image: img__proyecto01,
-        title: 'Proyecto 6',
-        github: 'https://github.com/BushiMx/OpticaDelCentro',
-        demo: 'https://bushimx.github.io/OpticaDelCentro/'        
+        image: imag__aluraflix,
+        title: 'AluraFlix - Página de videos',
+        github: 'https://github.com/BushiMx/Aluraflix',
+        demo: 'https://bushimx.github.io/Aluraflix/'        
     },
 
 ]
