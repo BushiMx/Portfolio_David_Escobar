@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio_David_Escobar/static/css/main.2cd09e2b.css",
+    "main.js": "/Portfolio_David_Escobar/static/js/main.f7aee2e8.js",
+    "static/js/787.aeca62f9.chunk.js": "/Portfolio_David_Escobar/static/js/787.aeca62f9.chunk.js",
+    "static/media/proyecto_aluraflix.png": "/Portfolio_David_Escobar/static/media/proyecto_aluraflix.caaff073149bf03250a9.png",
+    "static/media/proyecto_ecommerce.png": "/Portfolio_David_Escobar/static/media/proyecto_ecommerce.a163c1d16b802478a225.png",
+    "static/media/proyecto_optica.png": "/Portfolio_David_Escobar/static/media/proyecto_optica.e9e01fee34ca46391949.png",
+    "static/media/CV_DavidDemianEscobarVelazquez.pdf": "/Portfolio_David_Escobar/static/media/CV_DavidDemianEscobarVelazquez.a833c409abe871d05b45.pdf",
+    "static/media/profile-pic.webp": "/Portfolio_David_Escobar/static/media/profile-pic.6d6bf1ad95b4f8d14b3b.webp",
+    "static/media/proyecto_encriptador.png": "/Portfolio_David_Escobar/static/media/proyecto_encriptador.dd1a1da5b866832d1f15.png",
+    "static/media/avatar_mel.jpg": "/Portfolio_David_Escobar/static/media/avatar_mel.12c1886fee465ea43a2c.jpg",
+    "static/media/proyecto_mel_torres.png": "/Portfolio_David_Escobar/static/media/proyecto_mel_torres.0ad31914547989d8a592.png",
+    "static/media/pic_me01.webp": "/Portfolio_David_Escobar/static/media/pic_me01.fb19c62a7d9252310e0e.webp",
+    "static/media/proyecto_coinbase.png": "/Portfolio_David_Escobar/static/media/proyecto_coinbase.531033689797b42a7641.png",
+    "static/media/proyecto01.webp": "/Portfolio_David_Escobar/static/media/proyecto01.f3d41ae2850b523de297.webp",
+    "index.html": "/Portfolio_David_Escobar/index.html",
+    "main.2cd09e2b.css.map": "/Portfolio_David_Escobar/static/css/main.2cd09e2b.css.map",
+    "main.f7aee2e8.js.map": "/Portfolio_David_Escobar/static/js/main.f7aee2e8.js.map",
+    "787.aeca62f9.chunk.js.map": "/Portfolio_David_Escobar/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd09e2b.css",
+    "static/js/main.f7aee2e8.js"
+  ]
+}
