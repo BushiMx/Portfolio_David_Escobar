@@ -47,6 +47,18 @@ const Services = () => {
             <BsCheck className='service__list-icon'/>
             <p>EF SET English Certificate C2</p>
             </li>
+            <li>
+            <BsCheck className='service__list-icon'/>
+            <p>SQL con MySQL Server de Oracle.</p>
+            </li>
+            <li>
+            <BsCheck className='service__list-icon'/>
+            <p>Oracle Cloud Infrastructure.</p>
+            </li>
+            <li>
+            <BsCheck className='service__list-icon'/>
+            <p>Python, Data Science en OCI y Oracle Analytics.</p>
+            </li>
           </ul>
         </article>
 
@@ -77,6 +89,14 @@ const Services = () => {
             <BsCheck className='service__list-icon'/>
             <p>Organización de equipos ágiles: Las funciones existentes en un equipo.</p>
             </li>
+            <li>
+            <BsCheck className='service__list-icon'/>
+            <p>Managing Emotions in Times of Uncertainty & Stress</p>
+            </li>
+            <li>
+            <BsCheck className='service__list-icon'/>
+            <p>La empresa ágil: Introduciendo el Business Agility en las organizaciones.</p>
+            </li>
           </ul>
         </article>
 
@@ -88,15 +108,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
             <BsCheck className='service__list-icon'/>
-            <p>SQL con MySQL Server de Oracle.</p>
+            <p>Data visualization: Explorando con Seaborn.</p>
             </li>
             <li>
             <BsCheck className='service__list-icon'/>
-            <p>Oracle Cloud Infrastructure.</p>
+            <p>TypeScript</p>
             </li>
             <li>
             <BsCheck className='service__list-icon'/>
-            <p>Python, Data Science en OCI y Oracle Analytics.</p>
+            <p>Testing.</p>
             </li>
           </ul>
         </article>

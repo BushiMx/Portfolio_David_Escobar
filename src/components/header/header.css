@@ -11,6 +11,11 @@ header{
     position: relative;
 }
 
+h2{
+    color: var(--color-primary);
+    font-weight: 700;
+}
+
 /* CTA */
 
 .cta{

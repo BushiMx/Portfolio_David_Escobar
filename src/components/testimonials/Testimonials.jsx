@@ -1,8 +1,10 @@
 import React from "react"; 
 import './testimonials.css'
-import avatar_mel from '../../assets/avatar_mel.jpg'
 import avatar_daniel from '../../assets/avatar_daniel.jpeg'
 import avatar_fred from '../../assets/avatar_fred.jpeg'
+import avatar_maricarmen from '../../assets/avatar_maricarmen.jpeg'
+import avatar_ramses from '../../assets/avatar_ramses.jpeg'
+import avatar_juancarlos from '../../assets/avatar_juancarlos.jpeg'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -28,16 +30,28 @@ const clients_list = [
     },
     {
         id:3,
-        image: avatar_mel,
-        name: 'Mel Torres',
-        review: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae, doloremque doloribus incidunt quos atque dolorum neque veritatis est! Fuga ut animi aliquam velit iste nulla quod assumenda explicabo enim distinctio.'
+        image: avatar_maricarmen,
+        name: 'Maricarmen Varela',
+        review: 'Demian es una persona honorable, un hombre tenaz y decidido, interesado siempre en el mejor funcionamiento de los equipos y está enfocado a ayudarnos a alcanzar nuestros resultados individuales y por equipo.'
+    },
+    {
+        id:4,
+        image: avatar_ramses,
+        name: 'Ramsés Martínez',
+        review: 'Demian es un ejemplo de constante dedicación y fervor por sus ideales, es una persona que siempre consigue lograr sus metas a través de la disciplina y el esfuerzo continuo.'
+    },
+    {
+        id:5,
+        image: avatar_juancarlos,
+        name: 'Juan Carlos Guinea',
+        review: 'Demián es un gran empresario, dedica tiempo a sus compañeros y socios. Siempre está buscando como mejorar y poder crecer tanto él como quienes lo acompañan. Es tenaz y con una gran fuerza para lograr lo que se propone'
     }
 ]
 
 const Testimonials = () => {
     return (
         <section id="testimonials">
-            <h5>Comentarios de Clientes</h5>
+            <h5>Comentarios</h5>
             <h2>Testimonios</h2>
 
             <Swiper className="container testimonials__container"
