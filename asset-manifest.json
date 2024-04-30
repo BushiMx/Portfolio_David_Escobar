@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio_David_Escobar/static/css/main.7288c948.css",
-    "main.js": "/Portfolio_David_Escobar/static/js/main.54295574.js",
+    "main.js": "/Portfolio_David_Escobar/static/js/main.342087a3.js",
     "static/js/496.fe28bf52.chunk.js": "/Portfolio_David_Escobar/static/js/496.fe28bf52.chunk.js",
     "static/media/proyecto_aluraflix.png": "/Portfolio_David_Escobar/static/media/proyecto_aluraflix.caaff073149bf03250a9.png",
     "static/media/proyecto_ecommerce.png": "/Portfolio_David_Escobar/static/media/proyecto_ecommerce.a163c1d16b802478a225.png",
     "static/media/proyecto_optica.png": "/Portfolio_David_Escobar/static/media/proyecto_optica.e9e01fee34ca46391949.png",
+    "static/media/proyecto_dian_xue_mexico.png": "/Portfolio_David_Escobar/static/media/proyecto_dian_xue_mexico.8659b9491025c4664a2e.png",
     "static/media/challenge_reservamos.png": "/Portfolio_David_Escobar/static/media/challenge_reservamos.b46c9ddfa5d74e69ec35.png",
     "static/media/avatar_maricarmen.jpeg": "/Portfolio_David_Escobar/static/media/avatar_maricarmen.5376f1be5dcca37ff6bd.jpeg",
     "static/media/Resume_David_Demian_Escobar_FrontEnd_Dev.pdf": "/Portfolio_David_Escobar/static/media/Resume_David_Demian_Escobar_FrontEnd_Dev.bc4b9aab12c7170c7f2c.pdf",
@@ -17,14 +18,13 @@
     "static/media/proyecto_mel_torres.png": "/Portfolio_David_Escobar/static/media/proyecto_mel_torres.0ad31914547989d8a592.png",
     "static/media/pic_me01.webp": "/Portfolio_David_Escobar/static/media/pic_me01.fb19c62a7d9252310e0e.webp",
     "static/media/proyecto_coinbase.png": "/Portfolio_David_Escobar/static/media/proyecto_coinbase.531033689797b42a7641.png",
-    "static/media/proyecto01.webp": "/Portfolio_David_Escobar/static/media/proyecto01.f3d41ae2850b523de297.webp",
     "index.html": "/Portfolio_David_Escobar/index.html",
     "main.7288c948.css.map": "/Portfolio_David_Escobar/static/css/main.7288c948.css.map",
-    "main.54295574.js.map": "/Portfolio_David_Escobar/static/js/main.54295574.js.map",
+    "main.342087a3.js.map": "/Portfolio_David_Escobar/static/js/main.342087a3.js.map",
     "496.fe28bf52.chunk.js.map": "/Portfolio_David_Escobar/static/js/496.fe28bf52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7288c948.css",
-    "static/js/main.54295574.js"
+    "static/js/main.342087a3.js"
   ]
 }
